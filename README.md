@@ -9,7 +9,7 @@ I think this structure is quite interesting and try to build my own version of t
 All the STL files of the 3D models of the robot attached here. Please use a 3D printer to print them and note that the helix should be printed with dissolved support due to its complicated structure.
 <img width="695" alt="3d model saw" src="https://github.com/PlutoHu21/Single_Actuator_Wave-like_robot/assets/60218283/a59b736e-904b-426a-b647-906b9620112d">
 
-Links to other things I used below.
+Links to other things I used below:
 
 Servo Motor
 
